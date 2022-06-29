@@ -1,7 +1,7 @@
 # Analysis-Dimensional-model-and-database
 Andes University Analysis Dimensional model and database
 
-![Alt text](Modelo Dimensional.png?raw=true "Title")
+![Alt text](images/modelo_dimensional.png?raw=true "Title")
 
 MODELO MULTIDIMENSIONAL
 
